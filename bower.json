@@ -8,5 +8,5 @@
   "dependencies": {
 
   },
-  "ignore": ["node_modules", "karma", "./Gruntfile.js", "./build.config", "./module.prefix", "./module.suffix"]
+  "ignore": ["node_modules", "karma", "Gruntfile.js", "build.config", "module.prefix", "module.suffix"]
 }
