@@ -7,7 +7,7 @@
         "url": "git://github.com/basilikum/jimdb.git"
     },
     "main": "build/jimdb.js",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "licenses": [
         {
           "type": "MIT",
@@ -31,10 +31,5 @@
         "grunt-conventional-changelog": "~0.1.1",
         "grunt-bump": "0.0.6",
         "grunt-strip-code": "0.1.2"
-    },
-    "files": [
-        "jimdb.js",
-        "jimdb-min.js",
-        "LICENSE"
-    ]
+    }
 }
